@@ -1,0 +1,20 @@
+* {
+    font-family: 'Franklin Gothic Medium',
+     'Arial Narrow', Arial, sans-serif;
+     text-align: center;
+}
+
+h1 {
+    color: red;
+    font-size: 40px;
+}
+
+h2 {
+    color: coral;
+    font-size: 35px;
+}
+
+img {
+    width: 90vw;
+    height: 50vh;
+}
